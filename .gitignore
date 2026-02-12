@@ -1,0 +1,12 @@
+# Compiled C binaries
+readword
+readword.exe
+*.o
+
+# Backup and temporary files
+*~
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
